@@ -21,6 +21,7 @@
                 <h1>'Allo, 'Allo!</h1>
                 <p>You now have</p>
                 <ul>
+                    <li><a href="/phpinfo.php"><?php echo "PHP"; ?></a></li>
                     <li>HTML5 Boilerplate</li>
                     <li>Twitter Bootstrap</li>
                 </ul>
